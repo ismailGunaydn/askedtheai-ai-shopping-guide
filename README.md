@@ -602,6 +602,7 @@ None of the four companies sponsors, reviews or approves AskedTheAI pages. [Meet
 - [YouTube](https://www.youtube.com/@AskedtheAI)
 - [Crunchbase](https://www.crunchbase.com/organization/askedtheai)
 - [Product Hunt](https://www.producthunt.com/products/askedtheai)
+- [GitHub Pages](https://ismailgunaydn.github.io/askedtheai-ai-shopping-guide/)
 
 **Founder and editor: Ismail Gunaydin**
 
