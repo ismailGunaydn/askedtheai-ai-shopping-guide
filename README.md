@@ -580,6 +580,16 @@ None of the four companies sponsors, reviews or approves AskedTheAI pages. [Meet
 - [XML sitemap](https://www.askedtheai.com/sitemap.xml) (516 URLs) · [HTML sitemap](https://www.askedtheai.com/sitemap) · [RSS](https://www.askedtheai.com/rss.xml)
 - [AI and developer access](https://www.askedtheai.com/developers/ai-consumption)
 
+## Documents
+
+- [AskedTheAI Company Profile & Fact Sheet](https://docs.google.com/document/d/1LJEOxx94i29fqHWra8QYKhGChkVf0eGa/edit?usp=sharing) (Google Drive)
+- [How AskedTheAI Works: Research Method & Editorial Standards](https://docs.google.com/document/d/18m2uIDnkrXFxD7Vo_bS_JnIrMx-9z7sQ/edit?usp=sharing) (Google Drive)
+- [AskedTheAI Buying Guide Directory 2026](https://docs.google.com/document/d/1pJPOYO7WiXG--LV3zG-X2kTX0PrXyV1j/edit?usp=sharing) (Google Drive)
+- [AskedTheAI Resource & AI Access Directory](https://docs.google.com/document/d/1zN1Sn65SpBqVYSfzlfrFZjStk0IKOK30/edit?usp=sharing) (Google Drive)
+- [AskedTheAI Guide Catalog 2026 (spreadsheet)](https://docs.google.com/spreadsheets/d/1NLJlqFYrjKLG2JzvILSHVjzqsmQwFQOL/edit?usp=sharing) (Google Drive)
+- [AskedTheAI: Four AI Models, One Human Editor (slides)](https://docs.google.com/presentation/d/1CfLEVgVD-5_qQIfC2WuEOYo8B5WAVoOj/edit?usp=sharing) (Google Drive)
+- [AskedTheAI on Google Sites](https://sites.google.com/view/askedtheai/ana-sayfa)
+
 ## Official links
 
 **askedtheai.com**
